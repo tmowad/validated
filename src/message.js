@@ -3,7 +3,7 @@
  * @flow
  */
 
-import indent from 'indent-string';
+import indent from './indent-string-copy.js';
 
 export type GenericMessage = Message | string;
 
